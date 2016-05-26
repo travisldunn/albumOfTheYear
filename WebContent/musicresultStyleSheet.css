@@ -1,0 +1,211 @@
+body {
+	background-color: black
+}
+
+#Container {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-buttom: auto;
+	background-color: black;
+	font-family: Arial;
+}
+
+#header {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+	hight: auto !important;
+}
+
+#Header {
+	height: 150px;
+	background-color: black
+}
+
+#Menu {
+	padding-left: 50px;
+	padding-right: 50px;
+	max-width: auto;
+	height: 20px;
+	background-color: black;
+}
+
+#getyear {
+	float: left;
+	padding-left: 50px;
+	padding-right: 20px;
+	
+}
+
+#favorite {
+	display: block;
+	float: right;
+	margin: 0 auto;
+	max-width: 100%;
+	height: auto !important;
+	width: 100px;
+	transition: .5s ease;
+
+}
+#tofavorite1 {
+	display: block;
+	float: right;
+	margin: 0 auto;
+	max-width: 100%;
+	height: auto !important;
+	width: 60px;
+	transition: .5s ease;
+}
+#tofavorite2 {
+	display: block;
+	float: right;
+	margin: 0 auto;
+	max-width: 100%;
+	height: auto !important;
+	width: 60px;
+	transition: .5s ease;
+}
+
+#MainBody {
+	height: auto;
+	background-color: black;
+	float: left;
+}
+
+#bigyear {
+	position: relative;
+	transition: .9s ease;
+	top: 0px;
+	left: 0px;
+	right: -420px;
+	bottom: -191px;
+	font-size: 49px;
+	font-family: 'Coda Caption';
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 800;
+	line-height: 26.4px;
+}
+
+#smallyear {
+	position: relative;
+	transition: .9s ease;
+	top: 0px;
+	left: 0px;
+	right: -420px;
+	bottom: -191px;
+	font-size: 14px;
+	font-weight: 600;
+	font-family: 'Coda Caption';
+}
+
+#album {
+	padding-right:20px;
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+	hight: auto !important;
+	width: 400px;
+	transition: .9s ease;
+	top: 0px;
+	left: 420px;
+	right: -420px;
+	bottom: -191px;
+}
+
+audio {
+		padding-right:20px;
+		padding-bottom:20px;
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+	hight: auto !important;
+	width: 400px;
+	transition: .9s ease;
+	top: 400px;
+	left: 420px;
+	right: -420px;
+	bottom: -191px;
+}
+
+.changeyear1 {
+	float:left;
+	width: 80px;
+	transition: .5s ease;
+	
+}
+
+.changeyear2 {
+	folat:right;
+	width: 80px;
+	transition: .5s ease;
+}
+
+
+
+#Sidebar {
+	padding-top: 225px;
+	padding-letf:40px;
+	float: left height:auto;
+}
+
+iframe {
+	width: 80px;
+	transition: .9s ease;
+	top: 430px;
+	left: 640px;
+	right: -220px;
+	bottom: -191px;
+}
+
+#Footer {
+	max-width: auto;
+	height: auto;
+	padding-left: 120px;
+	padding-top: 50px;
+	padding-bottom: 100px;
+	background-color: #690000;
+	clear: both;
+}
+
+h3 {
+	color: #ecd472;
+	font-family: 'Coda Caption';
+	font-size: 15px;
+}
+
+IMG.banner {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+	height: auto !important;
+}
+
+button {
+	border-bottom: 1px solid #bcb496;
+	background-color: #ECD472;
+	border: 2px solid;
+	border-radius: 25px;
+}
+
+button:hover {
+	background-color: #faf5df;
+	top: -2px;
+	border-bottom: 4px solid #876b12;
+	box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.25);
+}
+
+button:active {
+	top: 0px;
+	border: 1px solid #bcb496;
+	background-color: #e6dcb5;
+	box-shadow: inset 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+p {
+	color: #ecd472;
+	font-family: 'Coda Caption';
+	font-size: 15px;
+}
+#Container

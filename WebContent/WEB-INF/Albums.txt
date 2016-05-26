@@ -1,0 +1,58 @@
+1959,Henry Mancini,The Music from Peter Gunn,1.jpg,1959 Mancini - Peter Gunn.mp3,352740790
+1960,Frank Sinatra, Come Dance with Me!,2.jpg,1960 Frank Sinatra - Come Dance With Me.mp3,962574565
+1961,Bob Newhart, The Button-Down Mind of Bob Newhart,3.jpg,1961 Bob NewhartThe Button - Down Mind Of Bob Newhart.mp3,349010673
+1962,Judy Garland,Judy at Carnegie Hall,4.jpg,1962 Judy Garland - San Francisco (Judy At Carnegie Hall).mp3,1024235508
+1963,Vaughn Meader, The First Family,5.jpg,1963 Vaughn Meader - The First Family .mp3,706092202
+1964,Barbra Streisand, The Barbra Streisand Album,6.jpg,1964 Barbra Streisand - The Barbra Streisand Album.mp3,157324718
+1965,Stan Getz & João Gilberto (with Astrud Gilberto & Antonio Carlos Jobim),Getz/Gilberto,7.jpg,1965 Stan Getz & Joao Gilberto - Getz.mp3,485540980
+1966,Frank Sinatra,September of My Years,8.jpg,1966.mp3,711618854
+1967,Frank Sinatra,A Man and His Music,9.jpg,1967.mp3,712384245
+1968,The Beatles, Sgt. Pepper's Lonely Hearts Club Band,10.jpg,1968.mp3,401141921
+1969,Glen Campbell,By the Time I Get to Phoenix,11.jpg,1969.mp3,724445930
+1970,Blood Sweat & Tears,Blood Sweat & Tears,12.jpg,1970.mp3,186933673
+1971,Simon & Garfunkel, Bridge over Troubled Water,13.jpg,1971.mp3,324127933
+1972,Carole King, Tapestry,14.jpg,1972.mp3,747087657
+1973,George Harrison & Friends,The Concert for Bangladesh,15.jpg,1973.mp3,451559933
+1974,Stevie Wonder,Innervisions,16.jpg,1974.mp3,549920877
+1975,Stevie Wonder,Fulfillingness' First Finale,17.jpg,1975.mp3,549938978
+1976,Paul Simon,Still Crazy After All These Years,18.jpg,1976.mp3,380590574
+1977,Stevie Wonder,Songs in the Key of Life,19.jpg,1977.mp3,549888946
+1978,Fleetwood Mac,Rumours,20.jpg,1978.mp3,594061854
+1979,Bee Gees,Saturday Night Fever: The Original Movie Sound Track,21.jpg,1979.mp3,263508370
+1980,Billy Joel,52nd Street,22.jpg,1980.mp3,259573387
+1981,Christopher Cross,Christopher Cross,23.jpg,1981.mp3,1057308470
+1982,John Lennon & Yoko Ono,Double Fantasy,24.jpg,1982.mp3,916995543&
+1983,Toto,Toto IV,25.jpg,1983.mp3,185716551
+1984,Michael Jackson,Thriller,26.jpg,1984.mp3,269572838
+1985,Lionel Richie,Can't Slow Down,27.jpg,1985.mp3,517146637
+1986,Phil Collins,No Jacket Required,28.jpg,1986.mp3,30724136
+1987,Paul Simon, Graceland,29.jpg,1987.mp3,529574560
+1988,U2,The Joshua Tree,30.jpg,1988.mp3,267826054
+1989,George Michael, Faith,31.jpg,1989.mp3,395918916
+1990,Bonnie Raitt, Nick of Time,32.jpg,1990.mp3,715516713
+1991,Quincy Jones,Back on the Block,33.jpg,1991.mp3,78258554
+1992,Natalie Cole, Unforgettable... with Love,34.jpg,1992.mp3,285615327
+1993,Eric Clapton,Unplugged,35.jpg,1993.mp3,718156726
+1994,Whitney Houston,The Bodyguard: Original Soundtrack Album,36.jpg,1994.mp3,388151892
+1995,Tony Bennett,MTV Unplugged,37.jpg,1995.mp3,705738992
+1996,Alanis Morissette, Jagged Little Pill,38.jpg,1996.mp3,1050392837
+1997,Celine Dion,Falling into You,39.jpg,1997.mp3,171142104
+1998,Bob Dylan,Time out of Mind,40.jpg,1998.mp3,190392344
+1999,Lauryn Hill,The Miseducation of Lauryn Hill,41.jpg,1999.mp3,157496745
+2000,Santana,Supernatural,42.jpg,2000.mp3,354579273
+2001, Steely Dan,Two Against Nature,43.jpg,2001.mp3,297597608
+2002,Various artists, O Brother Where Art Thou? soundtrack,44.jpg,2002.mp3,524827132
+2003,Norah Jones, Come Away with Me,45.jpg,2003.mp3,721249531
+2004,OutKast,Speakerboxxx/The Love Below,46.jpg,2004.mp3,281430653
+2005,Ray Charles,Genius Loves Company,47.jpg,2005.mp3,920141142
+2006, U2,How to Dismantle an Atomic Bomb,48.jpg,2006.mp3,29600233
+2007,Dixie Chicks, Taking the Long Way,49.jpg,2007.mp3,283636274
+2008,Herbie Hancock, River: The Joni Letters,50.jpg,2008.mp3,264454084
+2009,Robert Plant & Alison Krauss,Raising Sand,51.jpg,2009.mp3,379530018
+2010,Taylor Swift,Fearless,52.jpg,2010.mp3,295757174
+2011,Arcade Fire,The Suburbs,53.jpg,2011.mp3,382340814
+2012,Adele, 21	,54.jpg,2012.mp3,420075073
+2013,Mumford & Sons,Babel,55.jpg,2013.mp3,547449573
+2014,Daft Punk,Random Access Memories,56.jpg,2014.mp3,617154241
+2015,Beck,Morning Phase,57.jpg,2015.mp3,797897966
+2016,Taylor Swift,1989,58.jpg,2016.mp3,907242701

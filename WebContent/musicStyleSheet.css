@@ -1,0 +1,40 @@
+body {
+	background-color: black;
+	font-family: Arial;
+	 margin-left: 0px;
+	 margin-top: 0px;
+	 margin-right: 0px;
+	 margin-bottom: 0px;
+}
+
+IMG.banner {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+	height: auto !important;
+}
+
+video {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+	height: auto !important;
+}
+div {
+
+	margin-bottom:25px;
+}
+
+div button{
+	background-color: #ECD472;
+	position:relative;
+	border: 2px solid;
+    border-radius: 25px;
+    top: 95%;
+    left: 48%;
+}
+div p {
+	font-family: avant gared, Times, serif;
+	text-align: center;
+	color: #ECD472;
+}
